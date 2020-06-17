@@ -4,3 +4,5 @@
 Meta.csv
 Test.csv
 Train.csv
+__pycache__
+venv
